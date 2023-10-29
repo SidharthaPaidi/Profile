@@ -1,8 +1,8 @@
 # Hello, I'm Saisidhartha Paidi! 👋
 
-🌱 I began my coding journey with C and am currently expanding my horizons by learning Java. I'm also diving into the exciting world of Data Structures and Algorithms to strengthen my problem-solving skills.
+🌱 I started out learning to code in C, but right now I'm branching out by studying Java. To improve my problem-solving abilities, I'm also exploring into the exciting area of data structures and algorithms.
 
-🚀 My passion lies in web development, where I create interactive user experiences. I love crafting beautiful, functional websites and applications.
+🚀 I am also learning to create interactive user experience through web development. I enjoy developing useful websites and applications.
 
 👨‍💻 I also have an effective knowledge in version control systems(Git) and good at managing codebases, collaborating productively.
 

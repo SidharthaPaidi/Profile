@@ -10,6 +10,10 @@
 
 📫 You can reach me at [paidisaisidhartha9@gmail.com](paidisaisidhartha9@gmail.com)
 
+## 🌱 Projects 🚀
+- **Candy Museum:** 🍭 One of my first projects built with HTML, CSS, and Bootstrap. [[Check it out here](https://sidharthapaidi.github.io/Museum_of_Candy_Project/)]
+- **Pricing Panel:** 💰 This is one of my early projects created using HTML and CSS. [[Check it out here](https://sidharthapaidi.github.io/Price-Pannel-Project/)]
+
 📜 **Certificates**
 - [Certificate of Completion -The Git and GitHub Bootcamp (Udemy)](https://drive.google.com/file/d/1XqPoSTiStq-Erk_7l8NBXSt5fX0GMmwt/view) - A course covering the essentials of Git and GitHub.
 

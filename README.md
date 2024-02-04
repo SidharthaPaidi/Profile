@@ -11,6 +11,7 @@
 🌟 Let's connect and code together! Feel free to explore my repositories and get in touch. 
 
 ## 🌱 Projects 🚀
+- **Score Keeper:** Check out the live demo of the Score Keeper app: [Score Keeper Live Demo]( https://sidharthapaidi.github.io/ScoreKeeper-Project/)
 - **Candy Museum:** 🍭 One of my first projects built with HTML, CSS, and Bootstrap. [[Check it out here](https://sidharthapaidi.github.io/Museum_of_Candy_Project/)]
 - **Pricing Panel:** 💰 This is one of my early projects created using HTML and CSS. [[Check it out here](https://sidharthapaidi.github.io/Price-Pannel-Project/)]
 - **Stock Trade DashBoard:** A super cool DashBoard of Tesla Share Trade Made by JS , HTML ,Bootstrap , and also used API [[Check it out here](https://sidharthapaidi.github.io/Tesla-Stock-Market-Dashboard/)]

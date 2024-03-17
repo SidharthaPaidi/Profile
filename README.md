@@ -1,21 +1,11 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=Web+Developement;Learning+DSA)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=Web+Developement;Data+Structures+and+Algorithms)](https://git.io/typing-svg)
 
-# Hello, I'm Saisidhartha Paidi! 👋
+# Hello, I'm Saisidhartha Paidi! 
 
-🌱 I began with C and currently learning Java along with Data Structures and Algorithms.
+I began with C and am currently learning Java along with data structures and algorithms.I am also learning to create interactive user experiences through web development.I also know how to work well with others and manage codebases. I have good knowledge of version control systems, specifically Git.
 
-🚀 I am also learning to create interactive user experience through web development.
+Let's connect and code together! Feel free to explore my repositories and get in touch. 
 
-👨‍💻 I also have an effective knowledge in version control systems(Git) and good at managing codebases, collaborating productively.
-
-🌟 Let's connect and code together! Feel free to explore my repositories and get in touch. 
-
-## 🌱 Projects 🚀
-- **Score Keeper:** Check out the live demo of the Score Keeper app: [Score Keeper Live Demo]( https://sidharthapaidi.github.io/ScoreKeeper-Project/)
-- **Candy Museum:** 🍭 One of my first projects built with HTML, CSS, and Bootstrap. [[Check it out here](https://sidharthapaidi.github.io/Museum_of_Candy_Project/)]
-- **Pricing Panel:** 💰 This is one of my early projects created using HTML and CSS. [[Check it out here](https://sidharthapaidi.github.io/Price-Pannel-Project/)]
-- **Stock Trade DashBoard:** A super cool DashBoard of Tesla Share Trade Made by JS , HTML ,Bootstrap , and also used API [[Check it out here](https://sidharthapaidi.github.io/Tesla-Stock-Market-Dashboard/)]
-- **Calculator:** A calculator made by JS,HTML,Bootstrap [[Check it out here](https://sidharthapaidi.github.io/Calculator/)]
 
 
 <h2 align="left">Languages and Tools :</h2>

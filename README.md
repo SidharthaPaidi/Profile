@@ -6,7 +6,14 @@ I began with C and am currently learning Java along with data structures and alg
 
 Let's connect and code together! Feel free to explore my repositories and get in touch. 
 
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture><b> Github Stats </b>
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SidharthaPaidi&theme=radical)
+
+
+</div>
 
 <h2 align="left">Languages and Tools :</h2>
 
@@ -18,6 +25,7 @@ Let's connect and code together! Feel free to explore my repositories and get in
 
 <a href = "[https://www.linkedin.com/in//](https://www.linkedin.com/in/saisidharthapaidi/)"><img src="https://skillicons.dev/icons?i=linkedin" width="38px"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/sidharthapaidi/" ><img  src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="sidharthapaidi" width="60px" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 📜 **Certificates**
